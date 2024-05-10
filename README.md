@@ -51,9 +51,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AQM19/AQM19/output/snake.svg" alt="Snake animation" />
-
-###
